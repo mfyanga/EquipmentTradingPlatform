@@ -1,2 +1,2 @@
 # EquipmentTradingPlatform
-EquipmentTradingPlatform supports  Trading equopment by company and customer.
+EquipmentTradingPlatform supports  Trading equipment by company and customer.
