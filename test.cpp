@@ -11,6 +11,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
     cout << "just for test use git" << endl;
-    cout << "add in my_equipment branch" << endl;   
+    cout << "add in my_equipment branch" << endl; 
+    cout << "modify in remote git " << endl;
     return 0;
 }
